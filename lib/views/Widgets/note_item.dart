@@ -47,7 +47,7 @@ class NotesItem extends StatelessWidget {
           Padding(
             padding: const EdgeInsets.only(right: 24),
             child: Text(
-              'may , 21 , 2022',
+              'august , 7 , 2023',
               style: TextStyle(
                 color: Colors.black.withOpacity(0.4),
                 fontSize: 16,
