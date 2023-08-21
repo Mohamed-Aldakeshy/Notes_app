@@ -9,8 +9,8 @@ class CustomIcon extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 47,
-      width: 47,
+      height: 48,
+      width: 48,
       decoration: BoxDecoration(
         color: Colors.white.withOpacity(0.05),
         borderRadius: BorderRadius.circular(16),
